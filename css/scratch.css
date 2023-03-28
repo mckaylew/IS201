@@ -1,0 +1,55 @@
+body {
+    margin-left: 100px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif'';
+    font-size: small;
+    background-color:grey;
+
+  }
+
+  .maintitle {
+    font-size: xx-large;
+    font-weight: 400;
+    color:blue;
+    text-align: center;
+  }
+
+  .center{
+    text-align: center;
+  }
+  .nav {
+    color:white;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color:white;
+  }
+  
+  /* this is for the two div styles that position  */
+  .rightside {
+    padding-left: 25px;
+  }
+/* this is for the two div styles that position  */
+  .leftside {
+    padding-left: 700px;
+  }
+ 
+  li{
+    color: crimson;
+    font-size: large;
+  }
+  .underline {
+    text-decoration: underline;
+  }
+
+  .blue {
+    color:aquamarine;
+  }
+
+  h1{
+    color: beige;
+    font-size: large;
+  }
